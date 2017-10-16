@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\ab139bd8fade75d5070859223756c68ca615dc7b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\user\.android\build-cache\7cdcc129aca25db5778e862efb3ec0e8623637cc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\03dc6e7acc85d9e13afc8960dbc2ff117d5790c1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\d90a91dc5ff25b1d40a7502fdcef9e80bb11037d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\8ee6ac99c603bae7f548114a85a2851dbdeedb9d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.android\build-cache\0a6783f0bfc127619968b7b51736ecdab3aad12b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\1a963ff83e0a17fb87cffb6f0e1be6953ba8c6c0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\bc5e5497b563f53b2e2f84ecb4931002ac0e1199\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\6d76d412239358166adc37eeb3b4c252cbe12dd5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\ede25de00995d7b549883b0809ff68ae0cc67cd4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\9395527aa748e8ef06a513ece99d39a6141bdc4e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\e158551d3daaad741a07ead1082d2f87ce84ce39\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\76acd321e219c7b94c650f306783a4a0580c423d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:32:5-38:19
+	android:label
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.infulene.valley.partytogo.activities.MainActivity
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:15:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.infulene.valley.partytogo.activities.DetalhesEventoActivity
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:23:9-71
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:23:19-68
+activity#com.infulene.valley.partytogo.activities.FavoritosActivity
+ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:24:9-27:25
+	android:label
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:25:13-38
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml:24:19-63
+uses-sdk
+INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\ab139bd8fade75d5070859223756c68ca615dc7b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\user\.android\build-cache\7cdcc129aca25db5778e862efb3ec0e8623637cc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\03dc6e7acc85d9e13afc8960dbc2ff117d5790c1\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\d90a91dc5ff25b1d40a7502fdcef9e80bb11037d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\8ee6ac99c603bae7f548114a85a2851dbdeedb9d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.android\build-cache\b00f785cea716feb4b31719aad7f7eefec2dc44a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.android\build-cache\0a6783f0bfc127619968b7b51736ecdab3aad12b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\1a963ff83e0a17fb87cffb6f0e1be6953ba8c6c0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\bc5e5497b563f53b2e2f84ecb4931002ac0e1199\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\6d76d412239358166adc37eeb3b4c252cbe12dd5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\ede25de00995d7b549883b0809ff68ae0cc67cd4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\9395527aa748e8ef06a513ece99d39a6141bdc4e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\e158551d3daaad741a07ead1082d2f87ce84ce39\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\76acd321e219c7b94c650f306783a4a0580c423d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:25:5-27:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\03dc6e7acc85d9e13afc8960dbc2ff117d5790c1\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\MyApplication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\user\.android\build-cache\7cdcc129aca25db5778e862efb3ec0e8623637cc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\03dc6e7acc85d9e13afc8960dbc2ff117d5790c1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\d90a91dc5ff25b1d40a7502fdcef9e80bb11037d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\8ee6ac99c603bae7f548114a85a2851dbdeedb9d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.android\build-cache\b00f785cea716feb4b31719aad7f7eefec2dc44a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.android\build-cache\0a6783f0bfc127619968b7b51736ecdab3aad12b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\1a963ff83e0a17fb87cffb6f0e1be6953ba8c6c0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\bc5e5497b563f53b2e2f84ecb4931002ac0e1199\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\6d76d412239358166adc37eeb3b4c252cbe12dd5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\ede25de00995d7b549883b0809ff68ae0cc67cd4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\9395527aa748e8ef06a513ece99d39a6141bdc4e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\e158551d3daaad741a07ead1082d2f87ce84ce39\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\76acd321e219c7b94c650f306783a4a0580c423d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\user\.android\build-cache\7cdcc129aca25db5778e862efb3ec0e8623637cc\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\user\.android\build-cache\7cdcc129aca25db5778e862efb3ec0e8623637cc\output\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:33:9-37:40
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:35:13-71
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] C:\Users\user\.android\build-cache\c810046a89dccb89e5272e720afdf8d490b1712d\output\AndroidManifest.xml:34:13-63

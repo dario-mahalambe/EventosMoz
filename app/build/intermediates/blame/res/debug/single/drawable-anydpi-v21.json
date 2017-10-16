@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\03dc6e7acc85d9e13afc8960dbc2ff117d5790c1\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_favorite_border_black_24dp.xml",
+        "source": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_border_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\03dc6e7acc85d9e13afc8960dbc2ff117d5790c1\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_share_black_24dp.xml",
+        "source": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_favorite_black_24dp.xml",
+        "source": "C:\\Users\\user\\Desktop\\Freelancer\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_black_24dp.xml"
+    }
+]
